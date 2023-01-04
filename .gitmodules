@@ -1,3 +1,6 @@
 [submodule "movies"]
 	path = movies
-	url = https://github.com/fannyalden/movies.git
+	url = https://github.com/fannyalden/movies.git,
+[submodule "Exjobb"]
+	path = Exjobb
+	url = https://github.com/fannyalden/Exjobb.git
