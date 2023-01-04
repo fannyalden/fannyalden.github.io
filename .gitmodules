@@ -1,6 +1,3 @@
-[submodule "movies"]
-	path = movies
-	url = git@github.com:fannyalden/movies.git,
 [submodule "Exjobb"]
 	path = Exjobb
 	url = git@github.com:fannyalden/Exjobb.git
